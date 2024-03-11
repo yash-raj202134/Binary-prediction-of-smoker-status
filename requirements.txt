@@ -6,5 +6,6 @@ prettytable
 scikit-learn
 imblearn
 xgboost
+catboost
 tqdm
 -e .
