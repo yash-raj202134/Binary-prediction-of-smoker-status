@@ -8,4 +8,5 @@ imblearn
 xgboost
 catboost
 tqdm
+dill
 -e .
