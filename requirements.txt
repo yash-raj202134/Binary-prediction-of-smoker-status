@@ -4,4 +4,7 @@ seaborn
 matplotlib
 prettytable
 scikit-learn
+imblearn
+xgboost
+tqdm
 -e .
