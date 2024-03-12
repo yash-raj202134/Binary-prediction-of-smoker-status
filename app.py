@@ -49,8 +49,13 @@ def predict_datapoint():
         predict_pipeline=PredictPipeline()
         print("Mid Prediction")
         results=predict_pipeline.predict(pred_df)
-        print("after Prediction")
-        return render_template('home.html',results=results[0])
+        print(f"after Prediction: \n{results}")
+        if results[0] == 0:
+            status = 'Non Smoker'
+        else:
+            status = 'Smoker'
+
+        return render_template('home.html',results=status)
     
 
 if __name__=="__main__":
