@@ -39,6 +39,6 @@ The primary objective of this project is to build a binary classification model 
 To get started with this project, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/yourusername/Binary-prediction-of-smoker-status.git
+git clone https://github.com/yash-raj202134/Binary-prediction-of-smoker-status.git
 cd Binary-prediction-of-smoker-status
 pip install -r requirements.txt
