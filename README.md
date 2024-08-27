@@ -42,3 +42,8 @@ To get started with this project, clone the repository and install the necessary
 git clone https://github.com/yash-raj202134/Binary-prediction-of-smoker-status.git
 cd Binary-prediction-of-smoker-status
 pip install -r requirements.txt
+```
+Now execute:
+```bash
+streamlit run app.py
+```
