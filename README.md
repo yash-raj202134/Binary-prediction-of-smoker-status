@@ -4,7 +4,7 @@
 
 ![](biosignal.jpg)
 
-This project focuses on developing a binary classification model to predict a patient’s smoking status based on various health indicators or bio-signals. The goal is to utilize these features to accurately classify whether a patient is a smoker or not.
+This project focuses on developing a binary classification model to predict a patient’s smoking status based on various health indicators or bio-signals nsuch as EEG, ECG, EDA, EMG etc. The goal is to utilize these features to accurately classify whether a patient is a smoker or not.
 
 ## Dataset Description
 
